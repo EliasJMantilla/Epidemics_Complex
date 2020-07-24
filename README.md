@@ -1,0 +1,1 @@
+Jupyter Notebook containing an Agent Based Model that simulates the dynamics of an Epidemic. 
